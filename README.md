@@ -14,6 +14,7 @@ After finishing the #100daysofcode challenge I wanted to continue doing somethin
 # Optional Rules
 - Post on a social account usng the hashtag #daysofcode. Add the date of your session if you like eg. #daysofcode 19/7/20.
 - Post using a video. This is a great way to practise your presentation and soft skills which can really help other areas of your life.
+- Add links to your social media post/video and the project you worked on (repo and/or live site) where relevant. 
 - Encourage others doing this challenge (by following the hashtag) or the original #100daysofcode. If you can, find the accounts with less of a following as opposed to the popular accounts who use the hashtags but aren't providing any value or even doing the challenge.
 
 # Setup Instructions
